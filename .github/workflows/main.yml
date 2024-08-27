@@ -1,5 +1,5 @@
  name: CI
-on:
+ 于:
   push:
     branches: main
   pull_request:
@@ -39,4 +39,4 @@ jobs:
           disable-lto: true
           anykernel3: true
  
-  
+ 
